@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jefté Martins</h1>
 <h3 align="center">A intern coding with .Net C# and learning everything that i can learn</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeftemartins" alt="jeftemartins" /></a> </p>
 
 - 🔭 I’m currently working on **DIYNNER**
 
