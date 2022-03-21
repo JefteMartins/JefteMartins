@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jefté Martins</h1>
+<h1 align="center">Hi, I'm Jefté Martins</h1>
 <h3 align="center">A intern coding with .Net C# and learning everything that i can learn</h3>
 
 
