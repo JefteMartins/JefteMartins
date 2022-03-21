@@ -2,11 +2,11 @@
 <h3 align="center">A intern coding with .Net C# and learning everything that i can learn</h3>
 
 
-- 🔭 I’m currently an intern learning and using **.Net, C#, HTML, CSS, Js and SQL**
+- I’m currently an intern learning and using **.Net, C#, HTML, CSS, Js and SQL**
 
-- 📫 How to reach me **jefte.martin@hotmail.com**
+- How to reach me **jefte.martin@hotmail.com**
 
-- ⚡ Fun fact **my biggerst dream is to be a polyglot and speak with natives in their own language**
+- Fun fact **my biggerst dream is to be a polyglot and speak with natives in their own language**
 
 
 <div>
