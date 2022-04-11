@@ -1,5 +1,4 @@
 
-<img height="170em" src="https://c.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" align="right"/>
 
 ```diff
       Hi, I'm Jefté Martins,
@@ -11,8 +10,8 @@
 
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jeftemartins&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeftemartins&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jeftemartins&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeftemartins&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
