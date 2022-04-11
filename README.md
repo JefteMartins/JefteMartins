@@ -1,12 +1,13 @@
-<h1 align="center">Hi, I'm Jefté Martins</h1>
-<h3 align="center">A intern coding with .Net C# and learning everything that i can learn</h3>
 
+<img height="170em" src="https://c.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" align="right"/>
 
-- I’m currently an intern learning and using **.Net, C#, HTML, CSS, Js and SQL**
-
-- How to reach me **jefte.martin@hotmail.com**
-
-- Fun fact **my biggerst dream is to be a polyglot and speak with natives in their own language**
+```diff
+      Hi, I'm Jefté Martins,
+      A intern coding with .Net C# and learning everything that i can learn
+    - 25 years old
+    - digital systems & media degree at Federal University of Ceará
+    - love games and watch series, movies and animes.
+```
 
 
 <div>
