@@ -41,6 +41,9 @@
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter"/> </a> 
   
+<a href="https://pt-br.reactjs.org" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> </a> 
+  
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a> 
   
