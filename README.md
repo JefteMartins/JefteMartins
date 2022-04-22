@@ -3,7 +3,7 @@
 
 ```diff
       Hi, I'm Jefté Martins,
-      A intern coding with .Net C# and learning everything that i can learn
+      An intern coding with .Net C# and learning everything that i can learn
       
     - Living in Fortaleza - Brazil
     - 25 years old
