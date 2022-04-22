@@ -4,6 +4,8 @@
 ```diff
       Hi, I'm Jefté Martins,
       A intern coding with .Net C# and learning everything that i can learn
+      
+    - Living in Fortaleza - Brazil
     - 25 years old
     - digital systems & media degree at Federal University of Ceará
     - love games and watch series, movies and animes.
