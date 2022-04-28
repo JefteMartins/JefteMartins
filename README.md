@@ -13,8 +13,8 @@
 
 
 <div>
-  <img align="down" height="170em" src="https://github-readme-stats.vercel.app/api?username=jeftemartins&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-  <img align="down" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeftemartins&layout=compact&langs_count=7&theme=algolia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jeftemartins&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeftemartins&layout=compact&langs_count=7&theme=algolia&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
