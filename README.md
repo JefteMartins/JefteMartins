@@ -54,7 +54,7 @@
 <a href="https://expressjs.com/pt-br/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS" /> </a> 
   
-<h2>Dtabase</h2>
+<h2>Database</h2>
 <a href="www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> </a> 
       
