@@ -23,7 +23,8 @@
 </p>
 
 
-<h3 align="left"These are the technologies that you will find in my projects:</h3>
+<h1 align="left"> These are the technologies that you will find in my projects:</h1>
+<strong>(Full projects or just practices)</strong>
 
 <h2>Front-End</h2>
 <em> Ps: I'm starting React and Next, so will take some time to upload full projects, but ASAP i'll update the current repositories with those technologies </em>
@@ -56,8 +57,10 @@
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" /> </a> 
   
 <a href="https://expressjs.com/pt-br/" target="_blank" rel="noreferrer"> 
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS" /> </a> 
-  
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="ExpressJS" /> </a>
+<a href="https://expressjs.com/pt-br/" target="_blank" rel="noreferrer"> 
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="ExpressJS" /> </a>       
+
 <h2>Database</h2>
 <a href="www.mongodb.com/" target="_blank" rel="noreferrer"> 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> </a> 
