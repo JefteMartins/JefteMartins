@@ -3,7 +3,7 @@
 
 ```diff
       Hi, I'm Jefté Martins,
-      An intern coding with .Net C# and learning everything that i can
+      A Jr Developer working with TypeScript, React and Sharepoint
       
     - Living in Fortaleza - Brazil
     - 25 years old
