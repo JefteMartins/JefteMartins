@@ -6,7 +6,7 @@
       A Jr Developer working with TypeScript, React and Sharepoint
       
     - Living in Fortaleza - Brazil
-    - 25 years old
+    - 26 years old
     - digital systems & media degree at Federal University of Ceará
     - love games and watch series, movies and animes.
 ```
