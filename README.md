@@ -1,5 +1,6 @@
 
-<img height="155em" src="https://c.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" align="right"/>
+<div align="center">
+      <img height="170em" src="https://c.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" align="right"/>
 
 ```diff
       Hi, I'm Jefté Martins,
@@ -11,6 +12,7 @@
     - love games and watch series, movies and animes.
 ```
 
+</div>
 
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jeftemartins&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
