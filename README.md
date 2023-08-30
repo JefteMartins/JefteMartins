@@ -1,9 +1,9 @@
 
-<img height="170em" src="https://c.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" align="right"/>
+<img height="1550em" src="https://c.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" align="right"/>
 
 ```diff
       Hi, I'm Jefté Martins,
-      A Jr Developer working with TypeScript, React and Sharepoint
+      A Jr Developer working with .Net, Vue, TypeScript, React and Sharepoint
       
     - Living in Fortaleza - Brazil
     - 26 years old
