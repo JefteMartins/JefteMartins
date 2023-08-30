@@ -1,5 +1,5 @@
 
-<img height="1550em" src="https://c.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" align="right"/>
+<img height="155em" src="https://c.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" align="right"/>
 
 ```diff
       Hi, I'm Jefté Martins,
