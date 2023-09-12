@@ -68,4 +68,6 @@ I'm pretty much a developer who have experience with bugs and creating features.
 <div align="center">
       
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeftemartins)
+<br/>
+<a href="https://www.cvkeep.com/cv/f90dd1895e8bd8f3a356a90e872349aa">Resumé 📜</a>
 </div>
