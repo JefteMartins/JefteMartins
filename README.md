@@ -36,7 +36,7 @@
 
 
 Hey there!! I am Jefté \o/ <br/>
-I'm basicly a life longer student. I love to learn new stuff and increse my knowledge to help others to understand things
+I'm basically a life longer student. I love to learn new stuff and increase my knowledge to help others to understand things
 
 <em>Techs that i have experience and small projects</em>
 <br/>
