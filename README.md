@@ -69,5 +69,7 @@ I'm pretty much a developer who have experience with bugs and creating features.
       
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeftemartins)
 <br/>
-<a href="https://www.cvkeep.com/cv/f90dd1895e8bd8f3a356a90e872349aa">Resumé 📜</a>
+<a href="https://www.cvkeep.com/cv/f90dd1895e8bd8f3a356a90e872349aa"><img alt="Static Badge" src="https://img.shields.io/badge/Resume-jefte?color=blue&link=https%3A%2F%2Fwww.google.com.br%2F%3Fhl%3Dpt-BR"></a>
+
+
 </div>
