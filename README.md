@@ -4,7 +4,7 @@
 
 ```diff
       Hi, I'm Jefté Martins,
-      A Jr Developer working with .Net and Vue
+      A Jr Developer
       
     - Living in Fortaleza - Brazil -
     - 26 years old -
