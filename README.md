@@ -4,7 +4,7 @@
 
 ```diff
       Hi, I'm Jefté Martins,
-      A Jr Developer
+       Developer
       
     - Living in Fortaleza - Brazil -
     - 26 years old -
