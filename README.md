@@ -13,7 +13,7 @@
 ```
 
 </div>
-<a href="https://drive.google.com/file/d/1Ltw70K7WOTvzU-FOAqT3ao1ASoZXbytj/view?usp=sharing"> Currículo PT-BR </a>
+<a href="https://drive.google.com/file/d/1ASCijGfaxA-f7RAovx2t35bQ9X6yV-C_/view?usp=sharing" > Currículo PT-BR </a>
 
 <details open>
 <summary>My Knowledge 👈😊
