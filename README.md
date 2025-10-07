@@ -7,7 +7,7 @@
        Developer
       
     - Living in Fortaleza - Brazil -
-    - 26 years old -
+    - 28 years old -
     - digital systems & media degree at Federal University of Ceará -
     - love games and watch series, movies and animes -
 ```
