@@ -13,7 +13,9 @@
 ```
 
 </div>
-<a href="https://drive.google.com/file/d/1ASCijGfaxA-f7RAovx2t35bQ9X6yV-C_/view?usp=sharing" > Currículo PT-BR </a>
+<a href="https://drive.google.com/file/d/1ASCijGfaxA-f7RAovx2t35bQ9X6yV-C_/view?usp=sharing" > Currículo - PT-BR </a>
+</br>
+<a href="https://drive.google.com/file/d/1in3ps_rfRIMeVXS1PeyMis-RjIFVYuBA/view?usp=sharing" > Resumé - EN </a>
 
 <details open>
 <summary>My Knowledge 👈😊
@@ -69,7 +71,6 @@ I'm pretty much a developer who have experience with bugs and creating features.
       
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeftemartins)
 <br/>
-<a href="https://drive.google.com/file/d/1in3ps_rfRIMeVXS1PeyMis-RjIFVYuBA/view?usp=sharing"><img alt="Static Badge" src="https://img.shields.io/badge/Resume-jefte?color=blue&link=https%3A%2F%2Fwww.google.com.br%2F%3Fhl%3Dpt-BR"></a>
 
 
 </div>
