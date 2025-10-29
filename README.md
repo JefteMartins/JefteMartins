@@ -15,7 +15,7 @@
 </div>
 <a href="https://drive.google.com/file/d/1TKTqa_1Nh7mM1tC0rAhW_RCeKHBofE2D/view?usp=sharing" > Currículo - PT-BR </a>
 </br>
-<a href="https://drive.google.com/file/d/1in3ps_rfRIMeVXS1PeyMis-RjIFVYuBA/view?usp=sharing" > Resumé - EN </a>
+<a href="https://drive.google.com/file/d/16EUVrViMVVZinfJblboPZ0UUo49yZE-t/view?usp=sharing" > Resumé - EN </a>
 
 <details open>
 <summary>My Knowledge 👈😊
